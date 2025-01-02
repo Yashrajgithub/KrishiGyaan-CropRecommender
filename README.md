@@ -40,7 +40,7 @@ The dataset contains 2200 entries and 8 attributes, capturing key environmental 
 
 | Random data from the dataset for crop recommendation |
 |------------------------------------------------------|
-| ![image](https://ibb.co/q042XQz) |
+| ![image](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/dataset.png) |
 
 
 ### Crop Recommendation
