@@ -30,7 +30,7 @@ The system architecture consists of two key elements: the web server and the ML 
 
 | System Architecture |
 |---------------------|
-| ![image]([[https://ibb.co/6D28RgR](https://i.ibb.co/6D28RgR/image.jpg](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/system%20architecture.jpg))) |
+| ![image](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/system%20architecture.jpg) |
 
 
 ### Datasets
@@ -72,11 +72,11 @@ Built with Streamlit, this web application seamlessly integrates a machine learn
 
 | Landing page of the website |
 |-----------------------------|
-| ![image]([https://ibb.co/h1kpqr8](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/Landing%20Page.png)) |
+| ![image](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/Landing%20Page.png) |
 
 | Result of crop recommendation |
 |-----------------------------|
-| ![image]([https://ibb.co/GRKczjZ](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/Prediction%20result.png)) |
+| ![image](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/Prediction%20result.png) |
 
 ---
 
