@@ -8,10 +8,10 @@ The KrishiGyaan Crop Recommendation System is a web application powered by machi
 
 ## Key Features
 
--Accurate crop recommendations using machine learning
--User-friendly web interface for easy access
--Scalable and deployable on cloud platforms
--Supports multiple machine learning algorithms
+- Accurate crop recommendations using machine learning
+- User-friendly web interface for easy access
+- Scalable and deployable on cloud platforms
+- Supports multiple machine learning algorithms
 
 ## Model Development
 
