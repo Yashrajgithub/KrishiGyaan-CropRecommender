@@ -63,7 +63,7 @@ The Random Forest algorithm delivered the highest performance, with an accuracy 
 
 | Accuracy Comparison |
 |---------------------|
-| ![image]([https://ibb.co/DpSvW2R](https://github.com/Yashrajgithub/KrishiGyaan-CropRecommender/blob/main/crop_images/Accuracy%20comparison.png)) |
+| ![image](https://raw.githubusercontent.com/Yashrajgithub/KrishiGyaan-CropRecommender/main/crop_images/Accuracy%20comparison.png) |
 
 
 ### Website Deployment
