@@ -30,7 +30,7 @@ The system architecture consists of two key elements: the web server and the ML 
 
 | System Architecture |
 |---------------------|
-| ![image]([https://ibb.co/6D28RgR](https://i.ibb.co/6D28RgR/image.png)) |
+| ![image]([https://ibb.co/6D28RgR](https://i.ibb.co/6D28RgR/image.jpg)) |
 
 
 ### Datasets
